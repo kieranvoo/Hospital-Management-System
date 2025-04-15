@@ -1,0 +1,4 @@
+MedicationID,﻿Medicine Name,Initial Stock,Low Stock Level Alert,Price
+M001,Paracetamol,100,20,3
+M002,Ibuprofen,50,10,4
+M003,Amoxicillin,75,15,5
